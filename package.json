@@ -1,0 +1,23 @@
+{
+  "name": "trab.web",
+  "version": "1.0.0",
+  "description": "- Mariana Paiva de Souza Moreira (2312130137)\r - Othon Flávio Alves de Sales (2312130178)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpaivs/tecnologias-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpaivs/tecnologias-web/issues"
+  },
+  "homepage": "https://github.com/mpaivs/tecnologias-web#readme",
+  "dependencies": {
+    "vanilla-framework": "^4.23.0"
+  }
+}
